@@ -1,6 +1,30 @@
 <h1 align="center">Hi there👋, I'm Sahil Rokade</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
+Welcome to my GitHub profile! I'm a passionate tech enthusiast currently diving deep into **Artificial Intelligence** and **Machine Learning**. With a diploma in **Computer Science and Engineering**, I'm now pursuing a **B.Tech in Artificial Intelligence**, honing my skills and building innovative projects.
 
+---
+
+## 🌟 About Me
+- 🎓 **Education**: Diploma in Computer Science and Engineering  
+  🎓 Currently pursuing B.Tech in Artificial Intelligence  
+- 🤖 **Interests**:  
+  - Artificial Intelligence  
+  - Machine Learning  
+  - Cutting-edge Technologies  
+- 💡 **Passionate About**: Exploring how AI can transform the world!
+
+---
+
+## 🚀 Current Projects
+- **Voice Enabled Command Line Interface Using STMbl.ai**  
+  A modern terminal emulator integrating voice recognition, Wikipedia search, Google search, and system diagnostics.
+
+---
+
+## 🛠 Skills
+- **Programming Languages**: Python, JavaScript, C++  
+- **Technologies**: Machine Learning, Deep Learning, REST APIs  
+- **Tools**: Linux, Git, VS Code 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sahilrokade13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sahilrokade13" height="30" width="40" /></a>
